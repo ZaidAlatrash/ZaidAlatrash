@@ -1,5 +1,7 @@
 # 🚀 Smart Web Application
 
+![Project Banner](https://raw.githubusercontent.com/your-username/project-name/main/assets/banner.png)
+
 A modern **Web-Based Application** designed to provide users with an interactive and efficient experience through a responsive interface, structured database integration, and scalable architecture.
 
 ---
@@ -21,6 +23,20 @@ The application focuses on usability, performance, and clean system organization
 * ✅ Organized backend structure
 * ✅ Scalable project architecture
 * ✅ Ready for AI assistant integration
+
+---
+
+## 💻 Skills
+
+* C
+* C++
+* Java
+* Python
+* JavaScript
+* HTML
+* CSS
+* PHP
+* MySQL
 
 ---
 
